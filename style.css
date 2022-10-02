@@ -1,0 +1,32 @@
+body {
+	margin: 0 10%;
+}
+
+header {
+	color: blue;
+	font-size: 300%;
+}
+
+article {
+	margin: 3%;
+}
+
+form {	
+	margin: 3% 0;
+}
+
+fieldset {
+	background: silver;
+}
+
+legend {
+	background: white;
+	color: navy;
+	font-size: 125%;
+}
+
+footer {
+	font-style: italic;
+	color: gray;
+	padding: 5% 10%;
+}
